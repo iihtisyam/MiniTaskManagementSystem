@@ -80,7 +80,7 @@ Follow these steps to get the project up and running on your local environment.
     php artisan migrate:fresh --seed
     ```
 
-## Credential to login into the system
+## Credential To Login Into The System
 
 1. **Admin**
    Email : admin@example.com
