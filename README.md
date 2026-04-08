@@ -15,28 +15,22 @@ Key features include:
 
 Follow these steps to get the project up and running on your local environment.
 
-1. **Navigate to the project directory:**
-   Assuming you have cloned the repository, navigate into the project folder.
 
-    ```bash
-    cd task-manager
-    ```
-
-2. **Install PHP dependencies:**
+1. **Install PHP dependencies:**
    Ensure you have Composer installed, then run:
 
     ```bash
     composer install
     ```
 
-3. **Install NPM dependencies:**
+2. **Install NPM dependencies:**
    Ensure you have Node.js and npm installed, then run:
 
     ```bash
     npm install
     ```
 
-4. **Environment Configuration:**
+3. **Environment Configuration:**
    Copy the example environment file and configure your environment variables:
 
     ```bash
@@ -49,7 +43,7 @@ Follow these steps to get the project up and running on your local environment.
     php artisan key:generate
     ```
 
-5. **Start the development servers:**
+4. **Start the development servers:**
    Open two terminal windows/tabs.
 
     In the first terminal, start the Laravel backend server (if not using Laragon auto-hosting):
