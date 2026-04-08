@@ -79,3 +79,17 @@ Follow these steps to get the project up and running on your local environment.
     ```bash
     php artisan migrate:fresh --seed
     ```
+
+    ## Credential to login into the system
+
+1. **Admin**
+   Email : admin@example.com
+   Password : password
+
+2. **User 1**
+   Email : test@example.com
+   Password : password
+
+3. **User 2**
+   Email : sandy07@example.com
+   Password : password
